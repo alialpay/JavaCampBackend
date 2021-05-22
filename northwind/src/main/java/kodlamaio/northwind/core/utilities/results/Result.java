@@ -1,6 +1,6 @@
 package kodlamaio.northwind.core.utilities.results;
 
-public class Result {
+public class Result {//super type
 	private boolean success;
 	private String message;
 	
